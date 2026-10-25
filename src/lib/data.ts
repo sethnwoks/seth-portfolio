@@ -42,7 +42,7 @@ export const experience: Experience[] = [
     summary:
       "Built an MCP integration connecting eMigr8 capabilities with ChatGPT and Claude. Contributed to backend services supporting six-agent workflows and improved reliability through structured testing across 50+ cases. Also facilitated beginner Python learning sessions.",
     technologies: ["Python", "FastAPI", "LangGraph", "MCP", "REST APIs", "LLM Evaluation"],
-    href: "/work/emigr8",
+    href: "https://emigr8.ai/",
   },
 ];
 
@@ -109,29 +109,6 @@ export const projects: Project[] = [
       "Users describe meals naturally instead of manually entering every field.",
       "The backend requests a structured interpretation, validates returned data, and stores meal information for daily analysis.",
       "Infrastructure includes rate limiting, environment-specific configuration, and database migrations.",
-    ],
-  },
-  {
-    slug: "emigr8",
-    title: "eMigr8 · AI integrations",
-    description:
-      "Professional engineering contributions to an AI-powered mobility platform, including MCP connectivity and agent workflow reliability.",
-    technologies: ["Python", "FastAPI", "LangGraph", "MCP", "Evaluation"],
-    image: "/project-emigr8.svg",
-    imageAlt: "Illustrative diagram of platform integrations and AI agents",
-    category: "Professional work · Bincom",
-    eyebrow: "AI integrations / agent orchestration",
-    intro:
-      "Connecting a real application to AI assistants while keeping backend workflows maintainable.",
-    highlights: [
-      "Built an MCP service exposing platform functionality to ChatGPT and Claude.",
-      "Contributed to backend maintenance and a six-agent AI workflow.",
-      "Helped assess response behavior and reliability across 50+ test cases.",
-    ],
-    approach: [
-      "An integration layer gives AI clients structured access to appropriate application capabilities.",
-      "Backend services support orchestration, routing, and maintainable agent workflows.",
-      "Evaluation cases test behavior across common and edge-case requests, informing reliability improvements.",
     ],
   },
 ];

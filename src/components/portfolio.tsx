@@ -165,7 +165,17 @@ export function Portfolio() {
                     </header>
                     <div>
                       <h3 className="card-headline text-[15px] font-medium leading-snug text-slate-200">
-                        {job.href ? (
+                        {job.href?.startsWith("http") ? (
+                          <a
+                            href={job.href}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="card-hit-area group/link inline-flex items-start gap-1"
+                          >
+                            {job.title} · {job.company}
+                            <ArrowUpRight className="mt-[1px] shrink-0 transition-transform group-hover/link:-translate-y-0.5 group-hover/link:translate-x-0.5" size={17} />
+                          </a>
+                        ) : job.href ? (
                           <Link href={job.href} className="card-hit-area group/link inline-flex items-start gap-1">
                             {job.title} · {job.company}
                             <ArrowUpRight className="mt-[1px] shrink-0 transition-transform group-hover/link:-translate-y-0.5 group-hover/link:translate-x-0.5" size={17} />
