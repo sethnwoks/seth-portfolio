@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420" role="img" aria-label="Stylized software application preview">
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#121f36"/><stop offset="1" stop-color="#0a1528"/></linearGradient>
+      <linearGradient id="aqua" x1="0" x2="1"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+      <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#284057" stroke-opacity=".22" stroke-width="1"/></pattern>
+      <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#000" flood-opacity=".24"/></filter>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#bg)"/>
+    <rect width="100%" height="100%" fill="url(#grid)"/>
+    
+  <rect x="51" y="39" width="598" height="342" rx="15" fill="#0e2034" stroke="#385069" filter="url(#shadow)"/>
+  <rect x="51" y="39" width="598" height="48" rx="15" fill="#173248"/><rect x="51" y="72" width="598" height="15" fill="#173248"/>
+  <circle cx="80" cy="63" r="13" fill="#5eead4" opacity=".23"/><path d="M75 64c6-12 16-8 11 1-2 4-6 6-11 4z" fill="#5eead4"/>
+  <text x="101" y="69" font-family="Arial" font-size="17" font-weight="bold" fill="#e2e8f0">NaijaCal</text>
+  <text x="505" y="68" font-family="Arial" font-size="12" fill="#9baec1">Dashboard</text>
+  <text x="76" y="125" font-family="Arial" font-size="13" fill="#9cb2c9">Today’s nutrition</text>
+  <rect x="75" y="147" width="255" height="200" rx="12" fill="#18334a"/>
+  <text x="97" y="175" font-family="Arial" font-size="12" fill="#c0d4e3">Daily calories</text>
+  <text x="96" y="227" font-family="Arial" font-size="41" font-weight="bold" fill="#e2e8f0">1,630</text>
+  <text x="231" y="225" font-family="Arial" font-size="13" fill="#94a3b8">/ 2,100</text>
+  <rect x="96" y="255" width="209" height="10" rx="5" fill="#345063"/>
+  <rect x="96" y="255" width="160" height="10" rx="5" fill="url(#aqua)"/>
+  <text x="96" y="303" font-family="Arial" font-size="12" fill="#8ab0c9">Protein      Carbs       Fat</text>
+  <circle cx="102" cy="323" r="5" fill="#5eead4"/><circle cx="193" cy="323" r="5" fill="#38bdf8"/><circle cx="281" cy="323" r="5" fill="#fbbf24"/>
+  <rect x="345" y="147" width="281" height="96" rx="12" fill="#18334a"/>
+  <text x="364" y="170" font-family="Arial" font-size="13" fill="#d5e7f3">Log a meal</text>
+  <rect x="361" y="185" width="249" height="39" rx="9" fill="#0b1d30" stroke="#31546a"/>
+  <text x="374" y="208" font-family="Arial" font-size="12" fill="#7f9ab2">Jollof rice and chicken...</text>
+  <rect x="345" y="257" width="281" height="90" rx="12" fill="#18334a"/>
+  <text x="363" y="279" font-family="Arial" font-size="12" fill="#c0d4e3">This week</text>
+  <rect x="374" y="309" width="17" height="21" rx="4" fill="#2dd4bf"/>
+  <rect x="409" y="294" width="17" height="36" rx="4" fill="#5eead4"/>
+  <rect x="444" y="301" width="17" height="29" rx="4" fill="#38bdf8"/>
+  <rect x="479" y="284" width="17" height="46" rx="4" fill="#5eead4"/>
+  <rect x="514" y="290" width="17" height="40" rx="4" fill="#38bdf8"/>
+  <rect x="549" y="298" width="17" height="32" rx="4" fill="#2dd4bf"/>
+
+    </svg>

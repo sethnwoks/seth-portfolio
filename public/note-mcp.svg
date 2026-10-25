@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420" role="img" aria-label="Stylized software application preview">
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#121f36"/><stop offset="1" stop-color="#0a1528"/></linearGradient>
+      <linearGradient id="aqua" x1="0" x2="1"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+      <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#284057" stroke-opacity=".22" stroke-width="1"/></pattern>
+      <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#000" flood-opacity=".24"/></filter>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#bg)"/>
+    <rect width="100%" height="100%" fill="url(#grid)"/>
+    
+ <rect x="85" y="74" width="530" height="272" rx="16" fill="#162b43" stroke="#36516a"/>
+ <text x="111" y="109" font-family="Arial" font-size="13" fill="#94a3b8">TOOL INTEGRATIONS</text>
+ <rect x="110" y="146" width="145" height="116" rx="10" fill="#243f57"/>
+ <rect x="445" y="146" width="145" height="116" rx="10" fill="#243f57"/>
+ <text x="141" y="204" font-size="20" fill="#e2e8f0" font-family="Arial">AI Client</text>
+ <text x="474" y="204" font-size="20" fill="#e2e8f0" font-family="Arial">Backend</text>
+ <path d="M255 203H296 M404 203H445" stroke="#5eead4" stroke-width="4" stroke-dasharray="8 7"/>
+ <rect x="296" y="166" width="108" height="74" rx="14" fill="#105a50" stroke="#5eead4"/>
+ <text x="318" y="211" font-size="27" fill="#99f6e4" font-family="Arial" font-weight="bold">MCP</text>
+
+    </svg>

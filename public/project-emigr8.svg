@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420" role="img" aria-label="Stylized software application preview">
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#121f36"/><stop offset="1" stop-color="#0a1528"/></linearGradient>
+      <linearGradient id="aqua" x1="0" x2="1"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+      <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#284057" stroke-opacity=".22" stroke-width="1"/></pattern>
+      <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#000" flood-opacity=".24"/></filter>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#bg)"/>
+    <rect width="100%" height="100%" fill="url(#grid)"/>
+    
+  <rect x="38" y="34" width="624" height="352" rx="15" fill="#0e1d31" stroke="#304b67" filter="url(#shadow)"/>
+  <text x="66" y="76" font-family="Arial" font-size="20" font-weight="bold" fill="#e2e8f0">eMigr8</text>
+  <text x="66" y="100" font-family="Arial" font-size="13" fill="#91aec5">AI PLATFORM INTEGRATIONS</text>
+  <path d="M235 206H327M418 206H510" stroke="#2dd4bf" stroke-width="3" stroke-dasharray="8 7"/>
+  <circle cx="280" cy="206" r="6" fill="#5eead4"/><circle cx="463" cy="206" r="6" fill="#5eead4"/>
+  <rect x="57" y="152" width="177" height="110" rx="11" fill="#21384f" stroke="#375973"/>
+  <text x="85" y="184" font-family="Arial" font-size="12" fill="#87aac2">AI ASSISTANTS</text>
+  <text x="85" y="212" font-family="Arial" font-size="17" fill="#e2e8f0">ChatGPT</text>
+  <text x="85" y="239" font-family="Arial" font-size="17" fill="#e2e8f0">Claude</text>
+  <rect x="327" y="152" width="91" height="110" rx="11" fill="#175449" stroke="#5eead4"/>
+  <text x="346" y="185" font-family="Arial" font-size="12" fill="#99f6e4">MCP</text>
+  <circle cx="373" cy="217" r="16" stroke="#99f6e4" stroke-width="3" fill="none"/><path d="M363 218h20m-10-11v22" stroke="#99f6e4" stroke-width="2"/>
+  <rect x="510" y="152" width="132" height="110" rx="11" fill="#21384f" stroke="#375973"/>
+  <text x="536" y="182" font-family="Arial" font-size="12" fill="#87aac2">BACKEND</text>
+  <text x="536" y="213" font-family="Arial" font-size="16" fill="#e2e8f0">Agents</text>
+  <text x="536" y="236" font-family="Arial" font-size="12" fill="#7aa3bc">APIs &amp; tools</text>
+  <rect x="69" y="308" width="560" height="40" rx="7" fill="#172d43"/>
+  <circle cx="97" cy="328" r="6" fill="#5eead4"/>
+  <text x="114" y="332" font-family="Arial" font-size="12" fill="#b4cbdb">Evaluation</text>
+  <circle cx="280" cy="328" r="6" fill="#38bdf8"/>
+  <text x="297" y="332" font-family="Arial" font-size="12" fill="#b4cbdb">Reliability</text>
+  <circle cx="459" cy="328" r="6" fill="#a7f3d0"/>
+  <text x="476" y="332" font-family="Arial" font-size="12" fill="#b4cbdb">Integration</text>
+
+    </svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420" role="img" aria-label="Stylized software application preview">
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#121f36"/><stop offset="1" stop-color="#0a1528"/></linearGradient>
+      <linearGradient id="aqua" x1="0" x2="1"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+      <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#284057" stroke-opacity=".22" stroke-width="1"/></pattern>
+      <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#000" flood-opacity=".24"/></filter>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#bg)"/>
+    <rect width="100%" height="100%" fill="url(#grid)"/>
+    
+  <rect x="55" y="37" width="590" height="344" rx="14" fill="#101e31" stroke="#334a61" filter="url(#shadow)"/>
+  <rect x="55" y="37" width="590" height="45" rx="14" fill="#1c304a"/><rect x="55" y="68" width="590" height="14" fill="#1c304a"/>
+  <circle cx="80" cy="59" r="5" fill="#fb7185"/><circle cx="98" cy="59" r="5" fill="#fbbf24"/><circle cx="116" cy="59" r="5" fill="#5eead4"/>
+  <text x="147" y="64" font-family="Arial,sans-serif" font-weight="bold" font-size="16" fill="#d5e3f5">DOCINTEL</text>
+  <rect x="74" y="102" width="160" height="261" rx="8" fill="#16263c"/>
+  <text x="92" y="125" font-family="Arial" font-size="12" fill="#9db2c9">DOCUMENTS</text>
+  <rect x="86" y="143" width="135" height="43" rx="7" fill="#233e54"/><rect x="98" y="154" width="14" height="20" rx="3" fill="#5eead4" opacity=".7"/>
+  <rect x="121" y="154" width="81" height="5" rx="3" fill="#d4e2f3"/><rect x="121" y="167" width="55" height="4" rx="2" fill="#758aa5"/>
+  <rect x="98" y="210" width="14" height="20" rx="3" fill="#64748b"/><rect x="121" y="210" width="77" height="5" rx="3" fill="#a1b2c7"/><rect x="121" y="223" width="61" height="4" rx="2" fill="#536b84"/>
+  <rect x="98" y="254" width="14" height="20" rx="3" fill="#64748b"/><rect x="121" y="254" width="88" height="5" rx="3" fill="#a1b2c7"/><rect x="121" y="267" width="42" height="4" rx="2" fill="#536b84"/>
+  <text x="261" y="122" font-size="14" fill="#9cb4ce" font-family="Arial">Ask your documents</text>
+  <rect x="257" y="137" width="365" height="53" rx="10" fill="#223750"/>
+  <text x="274" y="160" font-size="14" fill="#e2e8f0" font-family="Arial">What are the eligibility criteria?</text>
+  <rect x="257" y="206" width="365" height="142" rx="10" fill="#172b43" stroke="#284663"/>
+  <rect x="275" y="223" width="125" height="9" rx="4.5" fill="url(#aqua)" opacity=".9"/>
+  <rect x="275" y="247" width="326" height="5" rx="2.5" fill="#9fb2c7"/>
+  <rect x="275" y="262" width="297" height="5" rx="2.5" fill="#9fb2c7" opacity=".8"/>
+  <rect x="275" y="277" width="320" height="5" rx="2.5" fill="#9fb2c7" opacity=".6"/>
+  <rect x="275" y="304" width="88" height="26" rx="13" fill="#175650"/>
+  <text x="292" y="322" font-family="Arial" font-size="11" fill="#99f6e4">Source 01 ↗</text>
+  <rect x="373" y="304" width="88" height="26" rx="13" fill="#175650"/>
+  <text x="390" y="322" font-family="Arial" font-size="11" fill="#99f6e4">Source 02 ↗</text>
+
+    </svg>
